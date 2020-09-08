@@ -8,5 +8,7 @@ public class Hello {
          helle = 23;
         System.out.println(helle);
         System.out.println("Dette virker 123");
+        System.out.println("Hello World");
+        System.out.println("Hej mor");
     }
 }
